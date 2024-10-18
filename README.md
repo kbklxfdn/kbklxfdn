@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbklxfdn
-- 👀 I’m interested in programming, industrial automation, machine learning/
-- 🌱 I’m currently learning python, SQL, Git, machine learning, EDA, neural networks.
+- 👀 I’m interested in programming, industrial automation, machine learning and analytics.
+- 🌱 I’m currently learning python, SQL, Git, machine learning, EDA, neural networks and maths.
 
 
 <!---
